@@ -1,0 +1,8 @@
+# .gitattributes
+* text eol=lf
+*.png binary
+*.jpeg binary
+*.ico binary
+*.wav binary
+*.woff binary
+*.woff2 binary

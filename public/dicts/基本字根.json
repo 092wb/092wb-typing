@@ -321,32 +321,12 @@
 	},
 	{
 		"name": "w",
-		"notation": "􀕟",
-		"trans": [
-			"聚骤"
-		],
-		"split": "",
-		"pronunciation": "􀕟",
-		"chapterId": 2
-	},
-	{
-		"name": "w",
 		"notation": "􀕠",
 		"trans": [
 			"􀕠􀕠􀕠"
 		],
 		"split": "",
 		"pronunciation": "􀕠",
-		"chapterId": 2
-	},
-	{
-		"name": "w",
-		"notation": "􀔛",
-		"trans": [
-			"􀔛􀔛􀔛"
-		],
-		"split": "",
-		"pronunciation": "􀔛",
 		"chapterId": 2
 	},
 	{
@@ -581,32 +561,12 @@
 	},
 	{
 		"name": "e",
-		"notation": "􀔿",
-		"trans": [
-			"􀔿􀔿􀔿"
-		],
-		"split": "",
-		"pronunciation": "􀔿",
-		"chapterId": 2
-	},
-	{
-		"name": "e",
 		"notation": "􀕀",
 		"trans": [
 			"像橡蟓"
 		],
 		"split": "",
 		"pronunciation": "􀕀",
-		"chapterId": 2
-	},
-	{
-		"name": "e",
-		"notation": "􀕁",
-		"trans": [
-			"逐 豕"
-		],
-		"split": "",
-		"pronunciation": "􀕁",
 		"chapterId": 2
 	},
 	{
@@ -1780,16 +1740,6 @@
 		"chapterId": 3
 	},
 	{
-		"name": "p",
-		"notation": "􀘖",
-		"trans": [
-			"养嗟嵯"
-		],
-		"split": "",
-		"pronunciation": "􀘖",
-		"chapterId": 3
-	},
-	{
 		"name": "a",
 		"notation": "􀘥",
 		"trans": [
@@ -1967,26 +1917,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀘶",
-		"chapterId": 0
-	},
-	{
-		"name": "a",
-		"notation": "􀘷",
-		"trans": [
-			"􀘷􀘷􀘷"
-		],
-		"split": "",
-		"pronunciation": "􀘷",
-		"chapterId": 0
-	},
-	{
-		"name": "a",
-		"notation": "􀘸",
-		"trans": [
-			"􀘸􀘸􀘸"
-		],
-		"split": "",
-		"pronunciation": "􀘸",
 		"chapterId": 0
 	},
 	{
@@ -2221,16 +2151,6 @@
 	},
 	{
 		"name": "s",
-		"notation": "􀙜",
-		"trans": [
-			"􀙜􀙜􀙜"
-		],
-		"split": "",
-		"pronunciation": "􀙜",
-		"chapterId": 0
-	},
-	{
-		"name": "s",
 		"notation": "􀙝",
 		"trans": [
 			"鼎鼐􀙝"
@@ -2390,26 +2310,6 @@
 		"chapterId": 0
 	},
 	{
-		"name": "d",
-		"notation": "􀙺",
-		"trans": [
-			"􀙺􀙺􀙺"
-		],
-		"split": "",
-		"pronunciation": "􀙺",
-		"chapterId": 0
-	},
-	{
-		"name": "d",
-		"notation": "􀙻",
-		"trans": [
-			"􀙻􀙻􀙻"
-		],
-		"split": "",
-		"pronunciation": "􀙻",
-		"chapterId": 0
-	},
-	{
 		"name": "f",
 		"notation": "􀚋",
 		"trans": [
@@ -2517,36 +2417,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀚕",
-		"chapterId": 0
-	},
-	{
-		"name": "f",
-		"notation": "􀚖",
-		"trans": [
-			"􀚖􀚖􀚖"
-		],
-		"split": "",
-		"pronunciation": "􀚖",
-		"chapterId": 0
-	},
-	{
-		"name": "f",
-		"notation": "􀚗",
-		"trans": [
-			"􀚗􀚗􀚗"
-		],
-		"split": "",
-		"pronunciation": "􀚗",
-		"chapterId": 0
-	},
-	{
-		"name": "f",
-		"notation": "􀚘",
-		"trans": [
-			"􀚘􀚘􀚘"
-		],
-		"split": "",
-		"pronunciation": "􀚘",
 		"chapterId": 0
 	},
 	{
@@ -2740,16 +2610,6 @@
 		"chapterId": 1
 	},
 	{
-		"name": "h",
-		"notation": "􀛊",
-		"trans": [
-			"􀛊􀛊􀛊"
-		],
-		"split": "",
-		"pronunciation": "􀛊",
-		"chapterId": 1
-	},
-	{
 		"name": "j",
 		"notation": "􀛚",
 		"trans": [
@@ -2901,26 +2761,6 @@
 	},
 	{
 		"name": "j",
-		"notation": "􀛩",
-		"trans": [
-			"题"
-		],
-		"split": "",
-		"pronunciation": "􀛩",
-		"chapterId": 1
-	},
-	{
-		"name": "j",
-		"notation": "􀛪",
-		"trans": [
-			"􀛪􀛪􀛪"
-		],
-		"split": "",
-		"pronunciation": "􀛪",
-		"chapterId": 1
-	},
-	{
-		"name": "j",
 		"notation": "􀛫",
 		"trans": [
 			"体本本"
@@ -3037,26 +2877,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀜆",
-		"chapterId": 1
-	},
-	{
-		"name": "k",
-		"notation": "􀜇",
-		"trans": [
-			"􀜇"
-		],
-		"split": "",
-		"pronunciation": "􀜇",
-		"chapterId": 1
-	},
-	{
-		"name": "k",
-		"notation": "􀜈",
-		"trans": [
-			"􀜈"
-		],
-		"split": "",
-		"pronunciation": "􀜈",
 		"chapterId": 1
 	},
 	{
@@ -3267,16 +3087,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀜬",
-		"chapterId": 1
-	},
-	{
-		"name": "l",
-		"notation": "􀜭",
-		"trans": [
-			"􀜭􀜭􀜭"
-		],
-		"split": "",
-		"pronunciation": "􀜭",
 		"chapterId": 1
 	},
 	{
@@ -3501,42 +3311,12 @@
 	},
 	{
 		"name": "x",
-		"notation": "􀝓",
-		"trans": [
-			"􀝓"
-		],
-		"split": "",
-		"pronunciation": "􀝓",
-		"chapterId": 4
-	},
-	{
-		"name": "x",
-		"notation": "􀝔",
-		"trans": [
-			"􀝔"
-		],
-		"split": "",
-		"pronunciation": "􀝔",
-		"chapterId": 4
-	},
-	{
-		"name": "x",
 		"notation": "􀝕",
 		"trans": [
 			"剃娣弟"
 		],
 		"split": "",
 		"pronunciation": "􀝕",
-		"chapterId": 4
-	},
-	{
-		"name": "x",
-		"notation": "􀝖",
-		"trans": [
-			"栉爷疖"
-		],
-		"split": "",
-		"pronunciation": "􀝖",
 		"chapterId": 4
 	},
 	{
@@ -3727,16 +3507,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀝶",
-		"chapterId": 4
-	},
-	{
-		"name": "c",
-		"notation": "􀝷",
-		"trans": [
-			"􀝷"
-		],
-		"split": "",
-		"pronunciation": "􀝷",
 		"chapterId": 4
 	},
 	{
@@ -3943,7 +3713,7 @@
 		"name": "v",
 		"notation": "􀞛",
 		"trans": [
-			"班辨􀞛"
+			"班辨 注意和J键上类似根的区别"
 		],
 		"split": "",
 		"pronunciation": "􀞛",
@@ -3967,26 +3737,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀞝",
-		"chapterId": 4
-	},
-	{
-		"name": "v",
-		"notation": "􀞞",
-		"trans": [
-			"􀞞􀞞􀞞"
-		],
-		"split": "",
-		"pronunciation": "􀞞",
-		"chapterId": 4
-	},
-	{
-		"name": "v",
-		"notation": "􀞟",
-		"trans": [
-			"􀞟􀞟􀞟"
-		],
-		"split": "",
-		"pronunciation": "􀞟",
 		"chapterId": 4
 	},
 	{
@@ -4231,26 +3981,6 @@
 	},
 	{
 		"name": "b",
-		"notation": "􀟇",
-		"trans": [
-			"􀟇􀟇􀟇"
-		],
-		"split": "",
-		"pronunciation": "􀟇",
-		"chapterId": 4
-	},
-	{
-		"name": "b",
-		"notation": "􀟈",
-		"trans": [
-			"􀟈􀟈􀟈"
-		],
-		"split": "",
-		"pronunciation": "􀟈",
-		"chapterId": 4
-	},
-	{
-		"name": "b",
 		"notation": "􀟊",
 		"trans": [
 			"劂厥嗍"
@@ -4437,26 +4167,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀟨",
-		"chapterId": 4
-	},
-	{
-		"name": "n",
-		"notation": "􀟩",
-		"trans": [
-			"􀟩􀟩􀟩"
-		],
-		"split": "",
-		"pronunciation": "􀟩",
-		"chapterId": 4
-	},
-	{
-		"name": "n",
-		"notation": "􀟪",
-		"trans": [
-			"􀟪􀟪􀟪"
-		],
-		"split": "",
-		"pronunciation": "􀟪",
 		"chapterId": 4
 	},
 	{
@@ -4991,32 +4701,12 @@
 	},
 	{
 		"name": "w",
-		"notation": "􀕟",
-		"trans": [
-			"聚骤"
-		],
-		"split": "",
-		"pronunciation": "􀕟",
-		"chapterId": 5
-	},
-	{
-		"name": "w",
 		"notation": "􀕠",
 		"trans": [
 			"􀕠􀕠􀕠"
 		],
 		"split": "",
 		"pronunciation": "􀕠",
-		"chapterId": 5
-	},
-	{
-		"name": "w",
-		"notation": "􀔛",
-		"trans": [
-			"􀔛􀔛􀔛"
-		],
-		"split": "",
-		"pronunciation": "􀔛",
 		"chapterId": 5
 	},
 	{
@@ -5251,32 +4941,12 @@
 	},
 	{
 		"name": "e",
-		"notation": "􀔿",
-		"trans": [
-			"􀔿􀔿􀔿"
-		],
-		"split": "",
-		"pronunciation": "􀔿",
-		"chapterId": 5
-	},
-	{
-		"name": "e",
 		"notation": "􀕀",
 		"trans": [
 			"像橡蟓"
 		],
 		"split": "",
 		"pronunciation": "􀕀",
-		"chapterId": 5
-	},
-	{
-		"name": "e",
-		"notation": "􀕁",
-		"trans": [
-			"逐 豕"
-		],
-		"split": "",
-		"pronunciation": "􀕁",
 		"chapterId": 5
 	},
 	{
@@ -6450,16 +6120,6 @@
 		"chapterId": 5
 	},
 	{
-		"name": "p",
-		"notation": "􀘖",
-		"trans": [
-			"养嗟嵯"
-		],
-		"split": "",
-		"pronunciation": "􀘖",
-		"chapterId": 5
-	},
-	{
 		"name": "a",
 		"notation": "􀘥",
 		"trans": [
@@ -6637,26 +6297,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀘶",
-		"chapterId": 5
-	},
-	{
-		"name": "a",
-		"notation": "􀘷",
-		"trans": [
-			"􀘷􀘷􀘷"
-		],
-		"split": "",
-		"pronunciation": "􀘷",
-		"chapterId": 5
-	},
-	{
-		"name": "a",
-		"notation": "􀘸",
-		"trans": [
-			"􀘸􀘸􀘸"
-		],
-		"split": "",
-		"pronunciation": "􀘸",
 		"chapterId": 5
 	},
 	{
@@ -6891,16 +6531,6 @@
 	},
 	{
 		"name": "s",
-		"notation": "􀙜",
-		"trans": [
-			"􀙜􀙜􀙜"
-		],
-		"split": "",
-		"pronunciation": "􀙜",
-		"chapterId": 5
-	},
-	{
-		"name": "s",
 		"notation": "􀙝",
 		"trans": [
 			"鼎鼐􀙝"
@@ -7060,26 +6690,6 @@
 		"chapterId": 5
 	},
 	{
-		"name": "d",
-		"notation": "􀙺",
-		"trans": [
-			"􀙺􀙺􀙺"
-		],
-		"split": "",
-		"pronunciation": "􀙺",
-		"chapterId": 5
-	},
-	{
-		"name": "d",
-		"notation": "􀙻",
-		"trans": [
-			"􀙻􀙻􀙻"
-		],
-		"split": "",
-		"pronunciation": "􀙻",
-		"chapterId": 5
-	},
-	{
 		"name": "f",
 		"notation": "􀚋",
 		"trans": [
@@ -7187,36 +6797,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀚕",
-		"chapterId": 5
-	},
-	{
-		"name": "f",
-		"notation": "􀚖",
-		"trans": [
-			"􀚖􀚖􀚖"
-		],
-		"split": "",
-		"pronunciation": "􀚖",
-		"chapterId": 5
-	},
-	{
-		"name": "f",
-		"notation": "􀚗",
-		"trans": [
-			"􀚗􀚗􀚗"
-		],
-		"split": "",
-		"pronunciation": "􀚗",
-		"chapterId": 5
-	},
-	{
-		"name": "f",
-		"notation": "􀚘",
-		"trans": [
-			"􀚘􀚘􀚘"
-		],
-		"split": "",
-		"pronunciation": "􀚘",
 		"chapterId": 5
 	},
 	{
@@ -7410,16 +6990,6 @@
 		"chapterId": 5
 	},
 	{
-		"name": "h",
-		"notation": "􀛊",
-		"trans": [
-			"􀛊􀛊􀛊"
-		],
-		"split": "",
-		"pronunciation": "􀛊",
-		"chapterId": 5
-	},
-	{
 		"name": "j",
 		"notation": "􀛚",
 		"trans": [
@@ -7571,26 +7141,6 @@
 	},
 	{
 		"name": "j",
-		"notation": "􀛩",
-		"trans": [
-			"题"
-		],
-		"split": "",
-		"pronunciation": "􀛩",
-		"chapterId": 5
-	},
-	{
-		"name": "j",
-		"notation": "􀛪",
-		"trans": [
-			"􀛪􀛪􀛪"
-		],
-		"split": "",
-		"pronunciation": "􀛪",
-		"chapterId": 5
-	},
-	{
-		"name": "j",
 		"notation": "􀛫",
 		"trans": [
 			"体本本"
@@ -7707,26 +7257,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀜆",
-		"chapterId": 5
-	},
-	{
-		"name": "k",
-		"notation": "􀜇",
-		"trans": [
-			"􀜇"
-		],
-		"split": "",
-		"pronunciation": "􀜇",
-		"chapterId": 5
-	},
-	{
-		"name": "k",
-		"notation": "􀜈",
-		"trans": [
-			"􀜈"
-		],
-		"split": "",
-		"pronunciation": "􀜈",
 		"chapterId": 5
 	},
 	{
@@ -7937,16 +7467,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀜬",
-		"chapterId": 5
-	},
-	{
-		"name": "l",
-		"notation": "􀜭",
-		"trans": [
-			"􀜭􀜭􀜭"
-		],
-		"split": "",
-		"pronunciation": "􀜭",
 		"chapterId": 5
 	},
 	{
@@ -8171,42 +7691,12 @@
 	},
 	{
 		"name": "x",
-		"notation": "􀝓",
-		"trans": [
-			"􀝓"
-		],
-		"split": "",
-		"pronunciation": "􀝓",
-		"chapterId": 5
-	},
-	{
-		"name": "x",
-		"notation": "􀝔",
-		"trans": [
-			"􀝔"
-		],
-		"split": "",
-		"pronunciation": "􀝔",
-		"chapterId": 5
-	},
-	{
-		"name": "x",
 		"notation": "􀝕",
 		"trans": [
 			"剃娣弟"
 		],
 		"split": "",
 		"pronunciation": "􀝕",
-		"chapterId": 5
-	},
-	{
-		"name": "x",
-		"notation": "􀝖",
-		"trans": [
-			"栉爷疖"
-		],
-		"split": "",
-		"pronunciation": "􀝖",
 		"chapterId": 5
 	},
 	{
@@ -8397,16 +7887,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀝶",
-		"chapterId": 5
-	},
-	{
-		"name": "c",
-		"notation": "􀝷",
-		"trans": [
-			"􀝷"
-		],
-		"split": "",
-		"pronunciation": "􀝷",
 		"chapterId": 5
 	},
 	{
@@ -8613,7 +8093,7 @@
 		"name": "v",
 		"notation": "􀞛",
 		"trans": [
-			"班辨􀞛"
+			"班辨 注意和J键上类似根的区别"
 		],
 		"split": "",
 		"pronunciation": "􀞛",
@@ -8637,26 +8117,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀞝",
-		"chapterId": 5
-	},
-	{
-		"name": "v",
-		"notation": "􀞞",
-		"trans": [
-			"􀞞􀞞􀞞"
-		],
-		"split": "",
-		"pronunciation": "􀞞",
-		"chapterId": 5
-	},
-	{
-		"name": "v",
-		"notation": "􀞟",
-		"trans": [
-			"􀞟􀞟􀞟"
-		],
-		"split": "",
-		"pronunciation": "􀞟",
 		"chapterId": 5
 	},
 	{
@@ -8901,26 +8361,6 @@
 	},
 	{
 		"name": "b",
-		"notation": "􀟇",
-		"trans": [
-			"􀟇􀟇􀟇"
-		],
-		"split": "",
-		"pronunciation": "􀟇",
-		"chapterId": 5
-	},
-	{
-		"name": "b",
-		"notation": "􀟈",
-		"trans": [
-			"􀟈􀟈􀟈"
-		],
-		"split": "",
-		"pronunciation": "􀟈",
-		"chapterId": 5
-	},
-	{
-		"name": "b",
 		"notation": "􀟊",
 		"trans": [
 			"劂厥嗍"
@@ -9107,26 +8547,6 @@
 		],
 		"split": "",
 		"pronunciation": "􀟨",
-		"chapterId": 5
-	},
-	{
-		"name": "n",
-		"notation": "􀟩",
-		"trans": [
-			"􀟩􀟩􀟩"
-		],
-		"split": "",
-		"pronunciation": "􀟩",
-		"chapterId": 5
-	},
-	{
-		"name": "n",
-		"notation": "􀟪",
-		"trans": [
-			"􀟪􀟪􀟪"
-		],
-		"split": "",
-		"pronunciation": "􀟪",
 		"chapterId": 5
 	},
 	{
